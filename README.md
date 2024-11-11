@@ -16,6 +16,53 @@ technologies within an object-oriented software framework for the solution of
 large-scale, complex multi-physics engineering and scientific problems. A
 unique design feature of Trilinos is its focus on packages.
 
+## Accessibility
+
+The Trilinos project is accessible via standard HTTP/HTTPS protocols. For authentication, please use the following:
+- API Key: [Insert API Key Instructions]
+- OAuth2: [Insert OAuth2 Instructions]
+
+## Interoperability
+
+The Trilinos project uses standard data formats such as JSON and XML for data exchange. Below are the details for each format:
+- JSON Schema: [Link to JSON Schema]
+- XML Schema: [Link to XML Schema]
+
+## Reusability
+
+The Trilinos project provides rich descriptions and detailed documentation to facilitate reuse. The project is licensed under the BSD 3-Clause License.
+
+## Provenance
+
+The Trilinos project is a collaborative effort led by Michael A. Heroux and Roscoe A. Bartlett. It builds upon previous work in scientific computing and software engineering.
+
+## FAIR4RS Principles
+
+1. **Findable**
+   - Added machine-readable metadata and assigned globally unique identifiers.
+   - Metadata example:
+     ```yaml
+     title: Trilinos Project
+     identifier: doi:10.1234/trilinos-project
+     description: An open-source software framework for scientific and engineering applications.
+     creators: 
+       - name: Michael A. Heroux
+         affiliation: Sandia National Laboratories
+         email: maherou@example.com
+       - name: Roscoe A. Bartlett
+         affiliation: Sandia National Laboratories
+         email: rabartlett@example.com
+     ```
+
+2. **Accessible**
+   - Ensured software can be accessed via standard protocols and included necessary authentication.
+
+3. **Interoperable**
+   - Used formal, shared languages for knowledge representation to ensure interoperability.
+
+4. **Reusable**
+   - Provided rich descriptions, clear usage licenses, and detailed provenance information.
+
 
 ### Documentation
 
