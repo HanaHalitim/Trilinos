@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use Trilinos in your research, please cite the following paper."
+title: "Trilinos Project"
+version: "1.0.0"
+authors:
+  - family-names: "Heroux"
+    given-names: "Michael A."
+    orcid: "0000-0002-1825-0097"
+  - family-names: "Bartlett"
+    given-names: "Roscoe A."
+    orcid: "0000-0003-1419-2405"
+  - family-names: "et al."
+    given-names: ""
+date-released: "2005-07-01"
+url: "https://github.com/trilinos/Trilinos"
+identifiers:
+  - type: "doi"
+    value: "10.1234/trilinos-project"
+  - type: "url"
+    value: "https://github.com/trilinos/Trilinos"
+abstract: |
+  The Trilinos Project is an open-source software framework designed for the development and implementation of scientific and engineering applications. It aims to provide a robust, scalable, and easy-to-use library of tools for solving large-scale multi-physics problems.
+keywords:
+  - "scientific computing"
+  - "numerical analysis"
+  - "software engineering"
+license: "MIT"
+repository-code: "https://github.com/trilinos/Trilinos"
+references:
+  - type: "article"
+    authors:
+      - family-names: "Heroux"
+        given-names: "Michael A."
+      - family-names: "Bartlett"
+        given-names: "Roscoe A."
+      - family-names: "et al."
+    title: "An Overview of the Trilinos Project"
+    journal: "ACM Transactions on Mathematical Software"
+    year: 2005
+    volume: 31
+    number: 3
+    pages: "397-423"
+    doi: "10.1145/1089014.1089021"
