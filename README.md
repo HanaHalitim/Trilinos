@@ -57,3 +57,11 @@ directory and/or file headers for additional information.
 We appreciate your willingness to contribute to the Trilinos project.  Please
 familiarize yourself with our [contributing
 guidelines](https://github.com/trilinos/Trilinos/blob/master/CONTRIBUTING.md).
+
+### Contact Information 
+
+For any inquiries, please reach out to our [community forum](https://github.com/trilinos/Trilinos/discussions). 
+
+### Acknowledgments 
+
+Special thanks to all the contributors and supporters of the Trilinos project.
